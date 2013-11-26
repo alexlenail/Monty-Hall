@@ -25,7 +25,7 @@ I had some spare time in an airport terminal today, and so I decided to put this
 
 So I was wrong. I think this result is interesting, not just because the Monty-Hall problem's solution is counterintuitive and generally seems strange to me (still) but because I used a computer to prove a mathematical truth to myself. The process of asking a computer for an answer to a complex math problem is different from the sort of programming I do in school, where you typically have to force the computer to do something you already understand, and get it to the point where it matches your expectations. 
 
-This was the opposite, and it was entiching. 
+This was the opposite, and it was enriching. 
 
 ![goat](http://www.wallarena.com/wp-content/uploads/2013/07/Goat_Picture_1.jpg)
 

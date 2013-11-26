@@ -18,8 +18,8 @@ I refused to believe this reasoning, and would get into engaging debates about w
 I had some spare time in an airport terminal today, and so I decided to put this to the test. When I ran the program in this repository with 10,000 trials of the cases in which a person switches and then 10,000 in which a person stays, my command line greeted me with something undeniably much closer to 2/3 and 1/3 than 1/2 and 1/2. 
 
 > zfrenchee@Samantha-II:~/Desktop/proj$ ./out
-> .6627
-> .3397
+`.6627`
+`.3397`
 
 So I was wrong. I think this result is interesting, not just because the Monty-Hall problem's solution is counterintuitive and generally seems strange to me (still) but because I used a computer to prove a mathematical truth to myself. The process of asking a computer for an answer to a complex math problem is different from the sort of programming I do in school, where you typically have to force the computer to do something you already understand, and get it to the point where it matches your expectations. 
 

@@ -5,11 +5,11 @@ I was first exposed to the Monty Hall problem when Kevin Spacey asks the protago
 
 For background, the Monty Hall problem is described verbosely by [wikipedia](http://en.wikipedia.org/wiki/Monty_Hall_problem):
 
-  The Monty Hall problem is a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed in a letter by Steve Selvin to the American Statistician in 1975. It became famous as a question from a reader's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990:
+> The Monty Hall problem is a probability puzzle, loosely based on the American television game show Let's Make a Deal and named after its original host, Monty Hall. The problem was originally posed in a letter by Steve Selvin to the American Statistician in 1975. It became famous as a question from a reader's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990:
 
-      Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
+> Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
 
-  Vos Savant's response was that the contestant should switch to the other door.
+> Vos Savant's response was that the contestant should switch to the other door.
 
 Hypothetically this is because once you choose a door, there is a 1/3 probability you're right and a 2/3 probability that the car is behind one of the other doors. So when one of the other doors is opened there is still a 2/3 probability that it is one of the other two doors, one of which you know it isn't, so there's a 2/3 probability that it is the unopened door you didn't pick. 
 
